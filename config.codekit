@@ -1,14 +1,58 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "18027",
+"creatorBuild": "18493",
 "files": {
-	"\/images\/headerimage.jpg": {
+	"\/images\/ads\/8371630229763433360.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 92613,
-		"inputAbbreviatedPath": "\/images\/headerimage.jpg",
-		"outputAbbreviatedPath": "\/images\/headerimage.jpg",
+		"initialSize": 264377,
+		"inputAbbreviatedPath": "\/images\/ads\/8371630229763433360.jpg",
+		"outputAbbreviatedPath": "\/images\/ads\/8371630229763433360.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/facebook.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9861,
+		"inputAbbreviatedPath": "\/images\/layout\/facebook.png",
+		"outputAbbreviatedPath": "\/images\/layout\/facebook.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/tumblr.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9838,
+		"inputAbbreviatedPath": "\/images\/layout\/tumblr.png",
+		"outputAbbreviatedPath": "\/images\/layout\/tumblr.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/twitter.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12002,
+		"inputAbbreviatedPath": "\/images\/layout\/twitter.png",
+		"outputAbbreviatedPath": "\/images\/layout\/twitter.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/youtube.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11297,
+		"inputAbbreviatedPath": "\/images\/layout\/youtube.png",
+		"outputAbbreviatedPath": "\/images\/layout\/youtube.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -24,24 +68,178 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/post.jpg": {
+	"\/images\/post\/700miles.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 22993,
-		"inputAbbreviatedPath": "\/images\/post.jpg",
-		"outputAbbreviatedPath": "\/images\/post.jpg",
+		"initialSize": 278967,
+		"inputAbbreviatedPath": "\/images\/post\/700miles.jpg",
+		"outputAbbreviatedPath": "\/images\/post\/700miles.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/post2.jpg": {
+	"\/images\/post\/fas.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 30849,
-		"inputAbbreviatedPath": "\/images\/post2.jpg",
-		"outputAbbreviatedPath": "\/images\/post2.jpg",
+		"initialSize": 151403,
+		"inputAbbreviatedPath": "\/images\/post\/fas.jpg",
+		"outputAbbreviatedPath": "\/images\/post\/fas.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/post\/frontimage.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 205363,
+		"inputAbbreviatedPath": "\/images\/post\/frontimage.jpg",
+		"outputAbbreviatedPath": "\/images\/post\/frontimage.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/post\/hawkfeature.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 201571,
+		"inputAbbreviatedPath": "\/images\/post\/hawkfeature.jpg",
+		"outputAbbreviatedPath": "\/images\/post\/hawkfeature.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/post\/never.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 177279,
+		"inputAbbreviatedPath": "\/images\/post\/never.jpg",
+		"outputAbbreviatedPath": "\/images\/post\/never.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/post\/vans.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75737,
+		"inputAbbreviatedPath": "\/images\/post\/vans.png",
+		"outputAbbreviatedPath": "\/images\/post\/vans.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/thumbnails\/Berrics_SkateboardMag_Jenkem1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13381,
+		"inputAbbreviatedPath": "\/images\/thumbnails\/Berrics_SkateboardMag_Jenkem1.jpg",
+		"outputAbbreviatedPath": "\/images\/thumbnails\/Berrics_SkateboardMag_Jenkem1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/thumbnails\/bob.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39263,
+		"inputAbbreviatedPath": "\/images\/thumbnails\/bob.png",
+		"outputAbbreviatedPath": "\/images\/thumbnails\/bob.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/thumbnails\/boyish.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21190,
+		"inputAbbreviatedPath": "\/images\/thumbnails\/boyish.png",
+		"outputAbbreviatedPath": "\/images\/thumbnails\/boyish.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/thumbnails\/CCS_Dead_Rip_Jenkem_1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11068,
+		"inputAbbreviatedPath": "\/images\/thumbnails\/CCS_Dead_Rip_Jenkem_1.jpg",
+		"outputAbbreviatedPath": "\/images\/thumbnails\/CCS_Dead_Rip_Jenkem_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/thumbnails\/Cherry1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14141,
+		"inputAbbreviatedPath": "\/images\/thumbnails\/Cherry1.jpg",
+		"outputAbbreviatedPath": "\/images\/thumbnails\/Cherry1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/thumbnails\/chris.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35457,
+		"inputAbbreviatedPath": "\/images\/thumbnails\/chris.png",
+		"outputAbbreviatedPath": "\/images\/thumbnails\/chris.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/thumbnails\/Esskateboarding_Jenkem.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21074,
+		"inputAbbreviatedPath": "\/images\/thumbnails\/Esskateboarding_Jenkem.jpg",
+		"outputAbbreviatedPath": "\/images\/thumbnails\/Esskateboarding_Jenkem.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/thumbnails\/mango.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37069,
+		"inputAbbreviatedPath": "\/images\/thumbnails\/mango.png",
+		"outputAbbreviatedPath": "\/images\/thumbnails\/mango.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/thumbnails\/Ray_Barbee_No_Comply_Jenkem_Best1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23060,
+		"inputAbbreviatedPath": "\/images\/thumbnails\/Ray_Barbee_No_Comply_Jenkem_Best1.jpg",
+		"outputAbbreviatedPath": "\/images\/thumbnails\/Ray_Barbee_No_Comply_Jenkem_Best1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/thumbnails\/Skateboard_Career_TonyDasilva1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17158,
+		"inputAbbreviatedPath": "\/images\/thumbnails\/Skateboard_Career_TonyDasilva1.jpg",
+		"outputAbbreviatedPath": "\/images\/thumbnails\/Skateboard_Career_TonyDasilva1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -121,6 +319,22 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/styles\/scss\/stylesheet.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/styles\/scss\/stylesheet.scss",
+		"outputAbbreviatedPath": "\/styles\/css\/stylesheet.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
 		}
 	},
 "hooks": [
@@ -171,6 +385,10 @@
 			},
 		"empty_constructor_needs_parens": {
 			"active": 0,
+			"flagValue": -1
+			},
+		"ensure_comprehensions": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"indentation": {
@@ -264,6 +482,10 @@
 		"space_operators": {
 			"active": 0,
 			"flagValue": -1
+			},
+		"spacing_after_comma": {
+			"active": 1,
+			"flagValue": -1
 			}
 		},
 	"coffeeMinifyOutput": 1,
@@ -320,6 +542,10 @@
 			"active": 1,
 			"flagValue": -1
 			},
+		"browserify": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"camelcase": {
 			"active": 0,
 			"flagValue": -1
@@ -342,6 +568,10 @@
 			},
 		"dojo": {
 			"active": 0,
+			"flagValue": -1
+			},
+		"elision": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"eqeqeq": {
@@ -396,6 +626,10 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"jasmine": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"jquery": {
 			"active": 1,
 			"flagValue": -1
@@ -439,6 +673,10 @@
 		"maxstatements": {
 			"active": 0,
 			"flagValue": 4
+			},
+		"mocha": {
+			"active": 0,
+			"flagValue": -1
 			},
 		"mootools": {
 			"active": 0,
@@ -508,6 +746,10 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"qunit": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"regexp": {
 			"active": 1,
 			"flagValue": -1
@@ -525,6 +767,10 @@
 			"flagValue": -1
 			},
 		"shelljs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"singleGroups": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -728,6 +974,7 @@
 	"slimAutoOutputPathStyle": 0,
 	"slimCompileOnly": 1,
 	"slimLogicless": 0,
+	"slimOutputFormat": 0,
 	"slimOutputStyle": 1,
 	"slimRailsCompatible": 0,
 	"stylusAutoOutputPathEnabled": 1,
@@ -752,8 +999,9 @@
 	"typescriptMinifyOutput": 0,
 	"typescriptModuleType": 0,
 	"typescriptNoImplicitAny": 0,
-	"typescriptNoResolve": 0,
+	"typescriptPreserveConstEnums": 0,
 	"typescriptRemoveComments": 0,
+	"typescriptSuppressImplicitAnyIndexErrors": 0,
 	"typescriptTargetECMAVersion": 0,
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
@@ -790,6 +1038,10 @@
 			"flagValue": -1
 			},
 		"dead_code": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_console": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -833,6 +1085,10 @@
 			"active": 1,
 			"flagValue": -1
 			},
+		"keep_fargs": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"loops": {
 			"active": 1,
 			"flagValue": -1
@@ -845,8 +1101,16 @@
 			"active": 1,
 			"flagValue": 32000
 			},
+		"negate_iife": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"properties": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"pure_getters": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"quote-keys": {

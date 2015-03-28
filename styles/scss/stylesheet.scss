@@ -1,17 +1,10 @@
 @charset "UTF-8";
 /* CSS Document */
 
-
-
-
-
-
-
 /* Base */
 
 body {
-	padding-top: 60px;
-	
+	padding-top: 50px;
 }
 
 h3 {
@@ -26,10 +19,27 @@ h1 {
 
 
 
+
+
 /* Layout */
+.blue-background {
+	background-color: #161193;
+}
 
+.align-center {
+	text-align: center;
+	margin: auto;
+}
 
+.footer-buttons {
+	float:inherit;
+	margin: auto;
+	margin-left: 10px;
+}
 
+.center-pagincation {
+	text-align: center;
+}
 
 /* Module */
 
@@ -42,7 +52,7 @@ h1 {
 /* NAV BAR COLOR CHANGER */
 
 .navbar-inverse { background-color: #161193}
-.navbar-inverse .navbar-nav>.active>a:hover,.navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>li>a:focus { background-color: #545252}
+.navbar-inverse .navbar-nav>.active>a:hover,.navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>li>a:focus { background-color: white}
 .navbar-inverse .navbar-nav>.active>a,.navbar-inverse .navbar-nav>.open>a,.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover,.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover, .navbar-inverse .navbar-nav>.open>a:focus { background-color: #000000}
 .dropdown-menu { background-color: #FFFFFF}
 .dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus { background-color: #000000}
@@ -52,7 +62,7 @@ h1 {
 .navbar-inverse .navbar-brand { color: #FFF}
 .navbar-inverse .navbar-brand:hover { color: #4D4D4D}
 .navbar-inverse .navbar-nav>li>a { color: #fff}
-.navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>li>a:focus { color: #FFFFFF}
+.navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>li>a:focus { color: #161193}
 .navbar-inverse .navbar-nav>.active>a,.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover, .navbar-inverse .navbar-nav>.open>a:focus { color: #FFFFFF}
 .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus { color: #FFFFFF}
 .dropdown-menu>li>a { color: #333333}
