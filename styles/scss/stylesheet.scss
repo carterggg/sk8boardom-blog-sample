@@ -5,6 +5,7 @@
 
 body {
 	padding-top: 50px;
+	background-color: #161193;
 }
 
 h3 {
@@ -14,16 +15,62 @@ h3 {
 
 h1 {
 	text-align:center;
+	color: #161193;
+	background-color: white;
+	padding:5px;
+	font-weight:800; 
+	text-align: center;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0px;
+  padding-right: 16px; }
+
+nav ul li {
+  display: inline; }
+
+li {
+  font-size: 2.3em;
+  margin-left: 20px; }
+
+nav {
+  text-align: center; }
+
+h1 a {
+	color: #161193;
+}
+
+h1 a:hover {
+	color: #161193;
 }
 
 
 
 
-
-
 /* Layout */
+
+.main-nav-style a {
+  font-size: .7em;
+  color: white !important; }
+
+.main-nav-style a:hover {
+  font-size: .9em;
+  color: white !important; }
+
 .blue-background {
 	background-color: #161193;
+	padding:20px;
+}
+
+.white-background {
+	background-color: white;
+	height: 463px;
+	padding:20px;
+}
+
+.main-border {
+	border: 10px solid white;
 }
 
 .align-center {
@@ -47,6 +94,29 @@ h1 {
 
 
 /* Theme */
+
+/* Video EMBed responsive code */
+.responsive-video {
+margin:auto;
+padding:auto;
+position: relative;
+padding-bottom: 56.25%;
+padding-top: 60px; overflow: hidden;
+}
+
+
+.responsive-video iframe,
+.responsive-video object,
+.responsive-video embed {
+position: absolute;
+top: 0;
+left: 0;
+width:50%;
+height:50%;
+}
+
+/* END OF = Video EMBed responsive code */
+
 
 
 /* NAV BAR COLOR CHANGER */
