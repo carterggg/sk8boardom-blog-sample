@@ -2,7 +2,7 @@
 /* Base */
 body {
   padding-top: 50px;
-  background-color: #161193; }
+  background-color: grey; }
 
 h3 {
   border-bottom: #CCC solid 4px; }
@@ -12,7 +12,7 @@ h1 {
   color: #161193;
   background-color: white;
   padding: 5px;
-  font-weight: 800;
+  font-weight: 700;
   text-align: center; }
 
 ul {
@@ -25,6 +25,7 @@ nav ul li {
 
 li {
   font-size: 2.3em;
+  font-weight: 800;
   margin-left: 20px; }
 
 nav {
@@ -54,8 +55,33 @@ h1 a:hover {
   height: 463px;
   padding: 20px; }
 
+.black-background {
+  background-color: black;
+  height: 463px;
+  padding: 20px; }
+
+.blue-background2 {
+  background-color: #161193;
+  padding-top: 20px;
+  padding-bottom: 9px;
+  padding-left: 5px;
+  padding-right: 5px; }
+
+.red-background {
+  background-color: red;
+  padding-top: 20px;
+  padding-bottom: 9px;
+  padding-left: 5px;
+  padding-right: 5px; }
+
+.white-background2 {
+  background-color: white; }
+
+.grey-background {
+  background-color: grey; }
+
 .main-border {
-  border: 10px solid white; }
+  border: 10px solid black; }
 
 .align-center {
   text-align: center;
@@ -68,6 +94,25 @@ h1 a:hover {
 
 .center-pagincation {
   text-align: center; }
+
+.img-border {
+  border-radius: 0px;
+  box-shadow: 0px 0px 0px 3px black; }
+
+.title-left {
+  float: left;
+  padding: 10px;
+  padding-right: 55px;
+  padding-left: 55px; }
+
+.header-selection-colors {
+  background-color: black; }
+
+.header-selection-colors a {
+  color: red; }
+
+.header-selection-colors a:hover {
+  color: red; }
 
 /* Module */
 /* State */
